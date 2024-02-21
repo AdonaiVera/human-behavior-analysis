@@ -1,0 +1,10 @@
+# Folder
+env/
+input/
+output/
+captured_frames/
+__pycache__/
+models/
+
+# Files
+.DS_Store
